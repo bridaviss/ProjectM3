@@ -1,7 +1,7 @@
 ## Contents:
 
 ### Project Description
-
+This project aims to explore the impact of the FIFA World Cup from 1994-2022 on commomidity prices of barley, corn, and cotton. These commomidities, which are used to make beer, snacks/food, and clothing, are central to the fanfare that is integral to the World Cup. Conducting a time-series analysis, we will using ARIMA models and VAR models specifically to capture temporal dynamics and identify the impact and relationships of the FIFA World Cup on commomidity prices. 
 
 ### What you will find in this repo: 
 Each section header will direct you to the respective folder.
@@ -13,7 +13,7 @@ Each section header will direct you to the respective folder.
 
 4. A reference section containing all acknolwedgments and references.
 
-## [SRC Section]():
+## [SRC Section](https://github.com/bridaviss/ProjectM3/tree/main/SRC):
 
 
 ### [Installing/Building Our Code]():
@@ -27,11 +27,11 @@ Each section header will direct you to the respective folder.
 
 
 
-## [DATA Section]():
+## [DATA Section](https://github.com/bridaviss/ProjectM3/tree/main/DATA):
 
 
 
-## [FIGURES Section]():
+## [FIGURES Section](https://github.com/bridaviss/ProjectM3/tree/main/FIGURES):
 
 ### This is still a work in progress.
 
