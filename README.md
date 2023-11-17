@@ -1,11 +1,7 @@
 ## Contents:
 
 ### Project Description
-We are exploring LinkedIn job posting descriptions and analyzing what are key
-qualitative factors that differentiate postings with a higher quantity of applications from a
-lower quantity. We hypothesize that job postings that have a higher number of applicants
-will be more detailed in summary and more descriptive in adjectives. We will be using
-three different methods of keyword extraction as our text analysis.
+
 
 ### What you will find in this repo: 
 Each section header will direct you to the respective folder.
