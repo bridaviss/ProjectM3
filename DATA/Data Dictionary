@@ -1,1 +1,14 @@
 
+## Data Dictionary
+
+BARLEYPRICE.csv:
+1. "DATE" – The first of each month from January 1990 to September 2023
+2. "PBARLUSDM" – Price of barley in U.S. Dollars per Metric Ton 
+
+CORNPRICE.csv:
+1. "DATE" – The first of each month from January 1990 to September 2023
+2. "PMAIZMTUSDM" – Price of corn in U.S. Dollars per Metric Ton 
+
+COTTONPRICE.csv:
+1. "DATE" – The first of each month from January 1990 to September 2023
+2. "PCOTTINDUSDM" – Price of cotton in U.S. Cents per Pound 
