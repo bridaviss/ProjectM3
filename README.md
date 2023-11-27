@@ -44,7 +44,10 @@ The goal of this analysis was to examine the impact of the FIFA World Cup on the
 
 ### Table of Contents:
    1. ["PricesOverTime.png"](https://github.com/bridaviss/ProjectM3/blob/main/FIGURES/PricesOverTime.png): This graphic looks at the commodity prices of barley, corn, and cotton over time with the occurence of the FIFA World Cup highlighted in red.
-      - Key Takeaways:
+      - Key Takeaways: At first glance, it does not seem that the FIFA World Cup is having a massive impact on the prices of these three commidities. Throughout time, the prices are similar, but the reason for this does not seem to be the World Cup.
+     
+   2. ["CorrelationPrice.png"](): This graphic looks at the correlation between commodity prices between 1990-2023.
+      - Key Takeaways: There seems to be a positive correlation between these three commodiities, but it does not look like the FIFA World Cup is an impact that is driving this correlation or the direction of prices.
      
    
 
