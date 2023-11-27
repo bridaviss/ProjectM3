@@ -43,6 +43,10 @@ The goal of this analysis was to examine the impact of the FIFA World Cup on the
 ### This is still a work in progress.
 
 ### Table of Contents:
+   1. ["PriceOverTime.png"](): This graphic looks at the commodity prices of barley, corn, and cotton over time with the occurence of the FIFA World Cup highlighted in red.
+      - Key Takeaways:
+     
+   
 
 
 ## REFERENCES Section:
