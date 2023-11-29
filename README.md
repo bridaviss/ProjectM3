@@ -45,3 +45,10 @@ The goal of this analysis was to examine the impact of the FIFA World Cup on the
 
 
 ## REFERENCES Section:
+1. "Global Price of Barley," _FRED,_ Nov. 8, 2023. [Online]. Available: https://fred.stlouisfed.org/series/PBARLUSDM. [Accessed Nov. 11, 2023].
+2. "Global Price of Corn," _FRED,_ Nov. 8, 2023. [Online]. Available: https://fred.stlouisfed.org/series/PMAIZMTUSDM. [Accessed Nov. 11, 2023].
+3. "Global Price of Cotton," _FRED,_ Nov. 8, 2023. [Online]. Available: https://fred.stlouisfed.org/series/PCOTTINDUSDM. [Accessed Nov. 11, 2023].
+4. G. Kaplanski, H. Levy, "Exploitable predictable irrationality: The FIFA World Cup effect on the U.S. Stock Market," _The Journal of Financial and Quantitative Analysis,_ vol. 45, no. 2, April, 2010. [Online serial]. Available: https://www.jstor.org/stable/27801494. [Accessed Nov. 16, 2023].
+5. S. Chatterjee, "Time Series Analysis Using ARIMA Model In R," _datascience+,_ Jan. 30, 2018. [Online]. Available: https://datascienceplus.com/time-series-analysis-using-arima-model-in-r/. [Accessed Nov. 17, 2023].
+6. S. Lee, "Vector Autoregressive Model (VAR) using R," _R-bloggers,_ Nov. 28, 2021. [Online]. Available: https://www.r-bloggers.com/2021/11/vector-autoregressive-model-var-using-r/. [Accessed Nov. 17, 2023]. 
+7. "The Official FIFA World CupTM Partners & Sponsors since 1982," _Howler,_ [Online]. Available: https://www.whatahowler.com/wp-content/uploads/2014/01/fs-401_01_fwc-partners.pdf. [Accessed Nov. 16, 2023].
