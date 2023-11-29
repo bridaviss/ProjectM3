@@ -16,7 +16,7 @@ Each section header will direct you to the respective folder.
 The three documents within this section contains the entire source code for our project and analysis for [Barley](https://github.com/bridaviss/ProjectM3/blob/main/SRC/BarleyAnalysis.R), [Corn](https://github.com/bridaviss/ProjectM3/blob/main/SRC/CornAnalysis.R), and [Cotton](https://github.com/bridaviss/ProjectM3/blob/main/SRC/CottonAnalysis.R). Within it, it contains our data cleaning and our analyses for these three commodities. 
 
 ### Usuage of Our Code:
-The goal of this analysis was to examine the impact of the FIFA World Cup on the commommodity prices of barley, corn, and cotton. 
+The goal of this analysis was to examine the impact of the FIFA World Cup on the commodity prices of barley, corn, and cotton. 
    - To do this, we did three types of analysis:
       1. ARIMA Models
       2. VAR Models
