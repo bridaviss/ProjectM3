@@ -13,7 +13,7 @@ Each section header will direct you to the respective folder.
 ## [SRC Section](https://github.com/bridaviss/ProjectM3/tree/main/SRC):
 
 ### Installing/Building Our Code:
-The "World Cup Analysis.R" document contains the entire source code for our project and analysis. Within it, it contains our data cleaning and our different types of analysis. 
+The three documents within this section contains the entire source code for our project and analysis for [Barley](), [Corn](), and [Cotton](). Within it, it contains our data cleaning and our analyses for these three commodities. 
 
 ### Usuage of Our Code:
 The goal of this analysis was to examine the impact of the FIFA World Cup on the commommodity prices of barley, corn, and cotton. 
