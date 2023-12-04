@@ -1,7 +1,7 @@
 ## Contents:
 
 ### Project Description
-This project aims to explore the impact of the FIFA World Cup from 1994-2022 on commodity prices of barley, corn, and cotton. These commodities, which are used to make beer, snacks/food, and clothing, are central to the fanfare that is integral to the World Cup. Conducting a time-series analysis, we will using ARIMA models, VAR models, and econometric modeling specifically to capture temporal dynamics and identify the impact and relationships of the FIFA World Cup on commodity prices. 
+This project aims to explore the impact of the FIFA World Cup from 1994-2022 on commodity prices of barley, corn, and cotton. These commodities, which are used to make beer, snacks/food, and clothing, are central to the fanfare that is integral to the World Cup. Conducting a time-series analysis, we will using exploratory analysis, VAR models, and econometric modeling specifically to capture temporal dynamics and identify the impact and relationships of the FIFA World Cup on commodity prices. 
 
 ### What you will find in this repo: 
 Each section header will direct you to the respective folder.
@@ -18,7 +18,7 @@ The three documents within this section contains the entire source code for our 
 ### Usuage of Our Code:
 The goal of this analysis was to examine the impact of the FIFA World Cup on the commodity prices of barley, corn, and cotton. 
    - To do this, we did three types of analysis:
-      1. ARIMA Models
+      1. Exploratory Analysis
       2. VAR Models
       3. Econometric Modeling
 
